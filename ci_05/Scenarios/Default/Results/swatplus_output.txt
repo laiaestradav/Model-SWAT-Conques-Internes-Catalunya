@@ -1,0 +1,5 @@
+Descarregar la base de dades sqlite amb els outputs d'aquí:
+
+https://drive.google.com/file/d/1WGfYqJ_t7KuME-WPnpSxF5jSELCeibMg/view?usp=sharing
+
+(massa gran per penjar-se al Github)
